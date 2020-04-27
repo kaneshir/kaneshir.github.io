@@ -1,6 +1,6 @@
 {
-    "name": "arc_test2",
-    "short_name": "arc_test2",
+    "name": "mymo_dart",
+    "short_name": "mymo_dart",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
