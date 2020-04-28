@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/images/mymobility_LoginLogo.png": "fbf2235634e0b5e98cc37d57cccea67a",
 "assets/FontManifest.json": "a09b86ab83a79e5231aaaea86d4ad505",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "6503c6a56271f9a4b04c9244bbe5994f",
+"assets/LICENSE": "890640466023c12b724addf3e87fc091",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "724526fdc28338ce3ed3296ef2cc0625",
 "/": "724526fdc28338ce3ed3296ef2cc0625",
-"main.dart.js": "251ea8c19f1d6e4e8645c5cd5a36fa50",
+"main.dart.js": "a24d68ffe05b3176ce1d593d66307035",
 "manifest.json": "7869911b3cbcec6e49893c589c6e0022"
 };
 
