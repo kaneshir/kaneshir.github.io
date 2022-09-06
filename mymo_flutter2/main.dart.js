@@ -79217,7 +79217,7 @@ var $async$tW=A.R(function(g,h){if(g===1)return A.N(h,r)
 while(true)switch(s){case 0:n=B.b_.wj(A.aLQ(b),null)
 m=t.bD
 s=3
-return A.Y(A.aQo(A.v1(p.a+a),n,A.aC(["authorization","bearer "+c,"content-type","application/json","accept","*/*"],m,m)),$async$tW)
+return A.Y(A.aQo(A.v1(p.a+a),n,A.aC(["authorization","bearer "+c,"content-type","application/json","accept","*/*","x-country-code","US"],m,m)),$async$tW)
 case 3:l=h
 m=d.i("0*")
 o=A.aIu(A.cO(m))
