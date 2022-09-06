@@ -79217,7 +79217,7 @@ var $async$tW=A.R(function(g,h){if(g===1)return A.N(h,r)
 while(true)switch(s){case 0:n=B.b_.wj(A.aLQ(b),null)
 m=t.bD
 s=3
-return A.Y(A.aQo(A.v1(p.a+a),n,A.aC(["authorization","bearer "+c,"content-type","application/json","accept","*/*","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","POST, GET, OPTIONS, PUT, DELETE, HEAD","Access-Control-Allow-Headers","custId, appId, Origin, Content-Type, Cookie, X-CSRF-TOKEN, Accept, Authorization, X-XSRF-TOKEN, Access-Control-Allow-Origin","Access-Control-Max-Age","3600"],m,m)),$async$tW)
+return A.Y(A.aQo(A.v1(p.a+a),n,A.aC(["authorization","bearer "+c,"content-type","application/json","accept","*/*","Access-Control-Allow-Origin","*"],m,m)),$async$tW)
 case 3:l=h
 m=d.i("0*")
 o=A.aIu(A.cO(m))
@@ -79962,8 +79962,8 @@ s=q}while(true)switch(s){case 0:g=o.a
 f=g.d
 g=g.e
 n=new A.kZ(J.Hg(f.a.a),J.Hg(g.a.a),0,null,"Unknown")
-i=new A.a4m("http://localhost")
-i.b=new A.a7Z("http://localhost")
+i=new A.a4m("https://dev.fitworldapi.zbdev.org")
+i.b=new A.a7Z("https://dev.fitworldapi.zbdev.org")
 m=i
 q=3
 s=6
